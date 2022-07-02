@@ -1,0 +1,20 @@
+{
+	"languages": {
+		"language": {
+			"singular": "langue",
+			"plural": "langues"
+		},
+		"german": {
+			"singular": "Deutsch"
+		},
+		"english": {
+			"singular": "English"
+		},
+		"france": {
+			"singular": "Français"
+		}
+	},
+	"wellcome": "Bienvenue dans votre application Vue.js + TypeScript",
+	"description": "Pour un guide ou un tutoriel sur la façon de configurer/personnaliser ce projet, visitez la documentation officielle de vue-cli.",
+	"installed": "Plug-ins CLI installés"
+}
